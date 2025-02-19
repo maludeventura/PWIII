@@ -57,6 +57,7 @@
     $pokemon7,
     $pokemon8
   ];
+
 ?>
 
     <div class="container">
