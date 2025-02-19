@@ -1,4 +1,3 @@
-
 <div class="row fixed-bottom bg-light">
     <div class="col-12 d-flex justify-content-center">
         <p>Todos os diretos reservados @ 2025</p>
